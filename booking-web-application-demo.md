@@ -527,6 +527,7 @@ app.listen(port, () => {
 - กำหนด initial value กับ current value
 - กดปุ่ม Save เพื่อบันทึกข้อมูล
   ![Get all booking](images/postman-getall.png)
+![image](https://github.com/user-attachments/assets/33de0a88-4b87-4f3c-9af5-36bc0fb9bb05)
 
 ### บันทึกผลลัพธ์การ Get ข้อมูล
 
