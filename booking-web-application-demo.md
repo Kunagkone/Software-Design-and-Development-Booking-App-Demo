@@ -542,6 +542,7 @@ app.listen(port, () => {
 ### /1 คือหมายเลข ID ที่ต้องการ
 
 ### บันทึกผลลัพธ์การ Get ข้อมูลโดยระบุ ID
+![image](https://github.com/user-attachments/assets/e7442be8-85a6-48b6-bf51-bcfc607595c3)
 
 ![รูปผลลัพธ์การ Get ข้อมูลโดยระบุ ID](images path/image.png)
 
