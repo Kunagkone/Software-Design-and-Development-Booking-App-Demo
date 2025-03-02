@@ -1165,7 +1165,12 @@ export default App;
 3) กดปุ่ม Ctrl ค้างไว้ แล้วคลิกลิ้ง ที่ http://localhost:เลข Port ที่รัน เพื่อเปิดหน้าเว็บการทำงาน แล้วตรวจสอบ error โดยไม่ต้องหยุดการทำงานของ Application
 #### บันทึกผลการรัน
 ```html
-บันทึกสาเหตุที่ทำให้เกิด error ที่นี่
+17 |  import React from "react";
+18 |  import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+19 |  import BookingForm from "./components/BookingForm";
+   |                           ^
+20 |  function App() {
+21 |    return /* @__PURE__ */ jsxDEV(Router, { children: /* @__PURE__ */ jsxDEV("div", { className: "min-h-screen bg-gray-100", children: [
 ```
 ### 3.2.2 BookingForm Component
 1) สร้างไฟล์ `src/components/BookingForm.jsx`:
