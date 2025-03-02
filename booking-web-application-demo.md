@@ -1160,6 +1160,7 @@ export default App;
 2) ทดสอบรัน โดยพิมพ์คำสั่ง npm run dev แล้วบันทึกหน้าผลการรัน
 #### บันทึกรูปผลการรัน
 ![ผลการรัน](./image path/image.png)
+![image](https://github.com/user-attachments/assets/bb0f1fbb-7591-41be-9a56-c8e30e9293d0)
 
 3) กดปุ่ม Ctrl ค้างไว้ แล้วคลิกลิ้ง ที่ http://localhost:เลข Port ที่รัน เพื่อเปิดหน้าเว็บการทำงาน แล้วตรวจสอบ error โดยไม่ต้องหยุดการทำงานของ Application
 #### บันทึกผลการรัน
